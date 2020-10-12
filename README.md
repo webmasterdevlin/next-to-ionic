@@ -1,5 +1,11 @@
 ## Nextjs in TypeScript to Ionic TypeScript
 
+### Tutorials
+
+- Ionic React https://www.youtube.com/watch?v=-icm4h39awc
+- Nextjs https://www.youtube.com/watch?v=VAEyelMtWp8
+- TypeScript in Reactjs https://www.youtube.com/watch?v=4PduzmHf1YQ
+
 #### CLI
 
 ```pwsh
